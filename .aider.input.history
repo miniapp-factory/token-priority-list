@@ -1,0 +1,88 @@
+
+# 2025-11-21 13:52:57.357342
++Code the following app
++```
++Token Priority List — App Description
++
++Create a simple and clean mini app called “Token Priority List”.
++This app should help users organize their tokens by assigning a priority level to each of them.
++
++The app does not require internet access or external data.
++All information is entered and stored locally inside the app session.
++
++Core Features
++ 1. A text input field where the user can enter the name of a token.
++ 2. A dropdown menu with three priority options:
++ • High
++ • Medium
++ • Low
++ 3. A button “Add Token” that adds the token and its selected priority to a visible list.
++ 4. A list section that displays all added tokens in a clean table or card layout:
++ • Token name
++ • Assigned priority
++ 5. Each item in the list must have a Delete button so users can remove tokens.
++ 6. No external API requests, no web3 actions, no internet access.
++
++How the app should work
++ • The user enters a token name, selects a priority level, and presses “Add Token”.
++ • The token appears in the list with its chosen priority.
++ • The user can delete any token from the list at any time.
++ • The list updates immediately after every action.
++ • Everything works offline using only internal app state.
++
++User Interface Requirements
++ • Simple, clean layout.
++ • Inputs at the top, list below.
++ • Clear labels for every field.
++ • The app should be lightweight and responsive.
++
++Goal of the app
++
++Provide a minimal, easy-to-use tool where users can manually organize tokens by importance without requiring any external data sources.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-21 13:52:57.357767
++Code the following app
++```
++Token Priority List — App Description
++
++Create a simple and clean mini app called “Token Priority List”.
++This app should help users organize their tokens by assigning a priority level to each of them.
++
++The app does not require internet access or external data.
++All information is entered and stored locally inside the app session.
++
++Core Features
++ 1. A text input field where the user can enter the name of a token.
++ 2. A dropdown menu with three priority options:
++ • High
++ • Medium
++ • Low
++ 3. A button “Add Token” that adds the token and its selected priority to a visible list.
++ 4. A list section that displays all added tokens in a clean table or card layout:
++ • Token name
++ • Assigned priority
++ 5. Each item in the list must have a Delete button so users can remove tokens.
++ 6. No external API requests, no web3 actions, no internet access.
++
++How the app should work
++ • The user enters a token name, selects a priority level, and presses “Add Token”.
++ • The token appears in the list with its chosen priority.
++ • The user can delete any token from the list at any time.
++ • The list updates immediately after every action.
++ • Everything works offline using only internal app state.
++
++User Interface Requirements
++ • Simple, clean layout.
++ • Inputs at the top, list below.
++ • Clear labels for every field.
++ • The app should be lightweight and responsive.
++
++Goal of the app
++
++Provide a minimal, easy-to-use tool where users can manually organize tokens by importance without requiring any external data sources.
++```
++
++Generate an app logo and update the app metadata title and description.
